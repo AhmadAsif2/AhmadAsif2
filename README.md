@@ -5,7 +5,6 @@ Ahmad is a Full Stack Web Developer.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ahmad.asifg786@gmail.com](mailto:ahmad.asifg786@gmail.com)
-* 🧠  I'm learning React Js
 
 ### Skills
 
