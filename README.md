@@ -7,7 +7,7 @@ I am a Full Stack Web Developer
 
 I am a tech enthusiastic I love to work on new technologies and frameworks Problem Solver
 
-* 🌍  I'm based in Pakistan , Lahore
+* 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [ahmad.asifg786@gmail.com](mailto:ahmad.asifg786@gmail.com)
 * 🧠  I'm learning Graph QL to write backend API'S
 * 🤝  I'm open to collaborating on interesting projects
