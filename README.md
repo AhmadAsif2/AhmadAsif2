@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad_asif2" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_asif2?logo=twitter&style=for-the-badge" alt="ahmad_asif2" /></a> </p>
 
-- 📫 How to reach me **ahmad.asifg786@gmail.com**
+- 📫 How to reach me **ahmadswe401@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
