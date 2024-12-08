@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16jcgAjP_iUkAblLu6QYtjwpf8V21CuFW/view?usp=sharing](https://drive.google.com/file/d/16jcgAjP_iUkAblLu6QYtjwpf8V21CuFW/view?usp=sharing)
 
-- ⚡ Fun fact **I can google**
+- ⚡ Fun fact ~I can google~ I am a software engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
